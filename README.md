@@ -9,7 +9,7 @@
 | <img width="651" height="605" alt="image" src="https://github.com/user-attachments/assets/be1e3b6c-5f16-473b-976b-2228ddf05fa4" />| Das Fell sieht zu random aus und hat keine struktur. lieber sowas, aber diue fell-textur darf nicht nach holz aussehen: <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/7ecf3c94-cab6-4ece-a8ef-bbb09ca8c1e6" />| 4 |
 | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/57f42b00-66ae-46f1-9608-612ada2f08a3" />| Die fell-textur sieht aus wie fichten-holz | 6 |
 | <img width="736" height="613" alt="image" src="https://github.com/user-attachments/assets/5abe6c64-8a87-4968-815a-3ce664657055" />| Valilla-Like models (GUT) (9/10), die schnurrhare sollten evtl. weg da 1x0 und nicht vanilla (glaube ich).!, Textur gut (7/10), manchmal dauert das interpretieren der tierart etwas länger da es irgendwie noch etwas undeutlich aussieht | 8 |
-|  |  |  |
+| <img width="720" height="704" alt="image" src="https://github.com/user-attachments/assets/dae92e25-1b78-49da-9864-2aacef9c5794" />| Die textur ist an vielen stellen zu-gleich und dadurch schwierig interpretierbar, die form könnte auch noch verbessert werden. | 4 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
