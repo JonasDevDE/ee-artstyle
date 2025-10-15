@@ -18,8 +18,8 @@
 | <img width="432" height="443" alt="image" src="https://github.com/user-attachments/assets/d5d3ccb2-639e-4ed5-9549-0895b46d154c" />| die fell-textur und textur unten ist relativ gut, hufe vielleicht nicht ganz so hoch aber ja. oben muss definitiv mehr textur ins fell. | 6 |
 | <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/3a8f8e28-b44f-4603-aaed-dabc58668346" />| Die texturen sehen zu leuchtend aus. | 4 |
 | <img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/4cfa2606-174a-4dde-adbc-d38cf2333341" />| Die models sehen nicht mehr vanilla-like aus, außerdem ist die auflösung der texturen zu gering. | 6 |
-|  |  |  |
-|  |  |  |
+| <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/77b4bb88-5bcb-4c7d-8801-5f3e021f6d05" />| Die Textur ist VIEL zu hochauflösend und sieht absoult nicht mehr nach vanilla aus. es sieht gut aus, aber nicht für minecraft! | 3 |
+| <img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/cdf1a122-0946-40b2-94ef-4331719e628d" />| Die auflösung ist zu gering wodurch sich die gegenstönde nicht gut interpretieren lassen. | 4 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
