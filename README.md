@@ -10,8 +10,8 @@
 | <img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/57f42b00-66ae-46f1-9608-612ada2f08a3" />| Die fell-textur sieht aus wie fichten-holz | 6 |
 | <img width="736" height="613" alt="image" src="https://github.com/user-attachments/assets/5abe6c64-8a87-4968-815a-3ce664657055" />| Valilla-Like models (GUT) (9/10), die schnurrhare sollten evtl. weg da 1x0 und nicht vanilla (glaube ich).!, Textur gut (7/10), manchmal dauert das interpretieren der tierart etwas länger da es irgendwie noch etwas undeutlich aussieht | 8 |
 | <img width="720" height="704" alt="image" src="https://github.com/user-attachments/assets/dae92e25-1b78-49da-9864-2aacef9c5794" />| Die textur ist an vielen stellen zu-gleich und dadurch schwierig interpretierbar, die form könnte auch noch verbessert werden. | 4 |
-| <img width="543" height="752" alt="image" src="https://github.com/user-attachments/assets/33c8675f-4b3f-4721-aad5-8b72bc21dc01" />| Model ist ganz gut, die textur sieht noch etwas zu verpixelt und dadurch schwieriger zu interpretieren aus. die paar farbunterschiede (gelb, orange) passen so wie sie aktuell eingebaut sind nicht richtig rein, sieht etwas aus wie blaue pflecken bei dieser spezies, oder eine krankheit. | 6 |
-|  |  |  |
+| <img width="543" height="752" alt="image" src="https://github.com/user-attachments/assets/33c8675f-4b3f-4721-aad5-8b72bc21dc01" />| Model ist ganz gut, die textur sieht noch etwas zu verpixelt und dadurch schwieriger zu interpretieren aus. die paar farbunterschiede (gelb, orange) passen so wie sie aktuell eingebaut sind nicht richtig rein, sieht etwas aus wie blaue pflecken bei dieser spezies, oder eine krankheit. | 5 |
+| <img width="720" height="1023" alt="image" src="https://github.com/user-attachments/assets/c7d7cb7c-eace-4621-83e9-923e6fe5c4dc" />| Die proportionen (Hald/Kopf & Bauch / Beine) passen überhaupt nicht, der obere teil ist viel zu klein im vergleich zu unten, die textur der beine ist noch etwas komisch.  | 6 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
