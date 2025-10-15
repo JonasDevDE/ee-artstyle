@@ -14,7 +14,7 @@
 | <img width="720" height="1023" alt="image" src="https://github.com/user-attachments/assets/c7d7cb7c-eace-4621-83e9-923e6fe5c4dc" />| Die proportionen (Hald/Kopf & Bauch / Beine) passen überhaupt nicht, der obere teil ist viel zu klein im vergleich zu unten, die textur der beine ist noch etwas komisch.  | 6 |
 | <img width="720" height="1150" alt="image" src="https://github.com/user-attachments/assets/4dbbb324-66ef-480e-8d3a-9045c46605bb" />| Absolut nicht interpretierbar, was ist das überhaupt? | 1 |
 |<img width="736" height="621" alt="image" src="https://github.com/user-attachments/assets/02096d8d-b644-433d-8c30-1e7a963bc8c3" />| Die textur sieht an vielen stellen aus wie streifen, als wäre die textur "verstreift" zudem sehen die haare von vorne noch nicht so gut aus | 7 |
-|  |  |  |
+| <img width="367" height="622" alt="image" src="https://github.com/user-attachments/assets/1304e3ca-bcd7-4411-a119-21de6e6ac2b0" />| Kann ich nicht beschreiben, einfach nein. | 0 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
