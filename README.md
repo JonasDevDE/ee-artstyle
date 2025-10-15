@@ -12,8 +12,8 @@
 | <img width="720" height="704" alt="image" src="https://github.com/user-attachments/assets/dae92e25-1b78-49da-9864-2aacef9c5794" />| Die textur ist an vielen stellen zu-gleich und dadurch schwierig interpretierbar, die form könnte auch noch verbessert werden. | 4 |
 | <img width="543" height="752" alt="image" src="https://github.com/user-attachments/assets/33c8675f-4b3f-4721-aad5-8b72bc21dc01" />| Model ist ganz gut, die textur sieht noch etwas zu verpixelt und dadurch schwieriger zu interpretieren aus. die paar farbunterschiede (gelb, orange) passen so wie sie aktuell eingebaut sind nicht richtig rein, sieht etwas aus wie blaue pflecken bei dieser spezies, oder eine krankheit. | 5 |
 | <img width="720" height="1023" alt="image" src="https://github.com/user-attachments/assets/c7d7cb7c-eace-4621-83e9-923e6fe5c4dc" />| Die proportionen (Hald/Kopf & Bauch / Beine) passen überhaupt nicht, der obere teil ist viel zu klein im vergleich zu unten, die textur der beine ist noch etwas komisch.  | 6 |
-|  |  |  |
-|  |  |  |
+| <img width="720" height="1150" alt="image" src="https://github.com/user-attachments/assets/4dbbb324-66ef-480e-8d3a-9045c46605bb" />| Absolut nicht interpretierbar, was ist das überhaupt? | 1 |
+|<img width="736" height="621" alt="image" src="https://github.com/user-attachments/assets/02096d8d-b644-433d-8c30-1e7a963bc8c3" />| Die textur sieht an vielen stellen aus wie streifen, als wäre die textur "verstreift" zudem sehen die haare von vorne noch nicht so gut aus | 7 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
