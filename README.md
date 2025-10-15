@@ -16,8 +16,8 @@
 |<img width="736" height="621" alt="image" src="https://github.com/user-attachments/assets/02096d8d-b644-433d-8c30-1e7a963bc8c3" />| Die textur sieht an vielen stellen aus wie streifen, als wäre die textur "verstreift" zudem sehen die haare von vorne noch nicht so gut aus | 4 |
 | <img width="367" height="622" alt="image" src="https://github.com/user-attachments/assets/1304e3ca-bcd7-4411-a119-21de6e6ac2b0" />| Kann ich nicht beschreiben, einfach nein. | 0 |
 | <img width="432" height="443" alt="image" src="https://github.com/user-attachments/assets/d5d3ccb2-639e-4ed5-9549-0895b46d154c" />| die fell-textur und textur unten ist relativ gut, hufe vielleicht nicht ganz so hoch aber ja. oben muss definitiv mehr textur ins fell. | 6 |
-|  |  |  |
-|  |  |  |
+| <img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/3a8f8e28-b44f-4603-aaed-dabc58668346" />| Die texturen sehen zu leuchtend aus. | 4 |
+| <img width="380" height="380" alt="image" src="https://github.com/user-attachments/assets/4cfa2606-174a-4dde-adbc-d38cf2333341" />| Die models sehen nicht mehr vanilla-like aus, außerdem ist die auflösung der texturen zu gering. | 6 |
 |  |  |  |
 |  |  |  |
 |  |  |  |
